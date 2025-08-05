@@ -1,3 +1,6 @@
+## 1.3.3
+- hotfix: Crash on iOS 18
+
 ## 1.3.2
 - build.gradle namespace [#253](https://github.com/endigo/flutter_pdfview/pull/253) @DrBu7cher 
 ## 1.3.1
